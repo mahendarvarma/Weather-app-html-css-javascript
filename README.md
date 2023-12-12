@@ -37,11 +37,11 @@ cd Weather-app-html-css-javascript
 
 Open index.html in your browser.
 
-Usage
-
+## Usage
 1.Enter the city name in the input box.
 2.Click the "Get Weather" button to fetch the current weather conditions.
 3.View the weather information displayed on the page.
+
 
 Contributing
 
