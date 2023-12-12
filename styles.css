@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #3498db; /* Set the background color to blue */
+}
+
+.container {
+    text-align: center;
+    background-color: #3498db; /* Set the background color to blue */
+    padding: 20px;
+    border-radius: 8px;
+}
+
+h1 {
+    color:white; /* Set the text color to white */
+}
+    
+label, input, button {
+    margin-top: 10px;
+}
+
+input {
+    padding: 8px;
+}
+
+button {
+    background-color: #e5f2fa; /* Set the button background color to white */
+    color: #000c13; 
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#weatherInfo {
+    margin-top: 20px;
+    color: #ffffff; /* Set the text color to white */
+}
